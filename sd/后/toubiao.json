@@ -1,0 +1,35 @@
+{
+    "name":"toubiao",
+    "cataList":[
+        {
+            "biao":"时髦好店",
+            "des":"抢大额",
+            "img_path":"https://img.alicdn.com/bao/uploaded/TB1X2SXk8LoK1RjSZFuSutn0XXa.jpg_80x80q90.jpg",
+            "bgc":"https://img.alicdn.com/tfs/TB1RmwiihTpK1RjSZFGXXcHqFXa-188-68.png"
+        },
+        {
+            "biao":"女装会场",
+            "des":"大牌不止五折",
+            "img_path":"https://img.alicdn.com/bao/uploaded/TB1gmXQk4TpK1RjSZR0SuvEwXXa.jpg_80x80q90.jpg",
+            "bgc":"https://img.alicdn.com/tfs/TB1bEEjigHqK1RjSZFPXXcwapXa-188-68.png"
+        },
+        {
+            "biao":"女装品类",
+            "des":"双面呢五折起",
+            "img_path":"https://img.alicdn.com/bao/uploaded/TB1ahuXk8LoK1RjSZFuSutn0XXa.jpg_80x80q90.jpg",
+            "bgc":"https://img.alicdn.com/tfs/TB10jMiigDqK1RjSZSyXXaxEVXa-188-68.png"
+        },
+        {
+            "biao":"品质大牌",
+            "des":"抢500大额券",
+            "img_path":"https://img.alicdn.com/bao/uploaded/TB1YdGakVYqK1RjSZLeSuvXppXa.jpg_80x80q90.jpg",
+            "bgc":"https://img.alicdn.com/tfs/TB1PoAmiXzqK1RjSZSgXXcpAVXa-188-68.png"
+        },
+        {
+            "biao":"现代农业",
+            "des":"农牧大户必看",
+            "img_path":"https://img.alicdn.com/bao/uploaded/i1/TB1k0k2kwDqK1RjSZSySuuxEVXa.jpg_80x80q90.jpg",
+            "bgc":"https://img.alicdn.com/tfs/TB1oCojibvpK1RjSZPiXXbmwXXa-188-68.png"
+        }
+    ]
+}

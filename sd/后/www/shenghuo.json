@@ -1,0 +1,49 @@
+{
+    "name":"huo",
+    "img_path":"https://img.alicdn.com/tfs/TB1o60degoQMeJjy1XaXXcSsFXa-180-48.png",
+    "desc":"发现属于你的生活方式",
+    "cataList":[
+        {
+            "img_path":"https://img.alicdn.com/tfscom/TB2wUn5hbsrBKNjSZFpXXcXhFXa_!!16-0-luban.jpg_80x80q90.jpg",
+            "lei":"就是爱音乐",
+            "miao":"我就是爱音乐",
+            "qi":"人气23456"
+
+        },
+        {
+            "img_path":"https://img.alicdn.com/tfscom/TB1XL51bmBYBeNjy0FeSuvnmFXa.jpg_80x80q90.jpg",
+            "lei":"就送咱爸妈",
+            "miao":"实用主义单品",
+            "qi":"人气34567"
+
+        },
+        {
+            "img_path":"https://img.alicdn.com/tfscom/TB13a4VXcLJ8KJjy0FnSuwFDpXa.jpg_80x80q90.jpg",
+            "lei":"改装发烧友",
+            "miao":"不改装我会疯",
+            "qi":"人气45678"
+
+        },
+        {
+            "img_path":"https://img.alicdn.com/tfscom/TB2oQ.ibh285uJjSZFGXXXDmpXa_!!0-juitemmedia.jpg_80x80q90.jpg",
+            "lei":"被子控",
+            "miao":"有它爱上喝水",
+            "qi":"人气56789"
+
+        },
+        {
+            "img_path":"https://img.alicdn.com/tfscom/O1CN011CBH5yfA212JJDf_!!42-0-luban.jpg_80x80q90.jpg",
+            "lei":"养生达人",
+            "miao":"打开长寿按钮",
+            "qi":"人气25600"
+
+        },
+        {
+            "img_path":"https://img.alicdn.com/tfscom/TB1zfLxwASWBuNjSszdSuveSpXa.jpg_80x80q90.jpg",
+            "lei":"户外运动控",
+            "miao":"一直在路上",
+            "qi":"人气403356"
+
+        }
+    ]
+}

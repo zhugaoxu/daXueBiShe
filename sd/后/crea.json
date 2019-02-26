@@ -1,0 +1,951 @@
+{
+    "name":"zuoce",
+    "cataList":[
+        {
+            "name":"女装/男装/内衣",
+            "shangpin":[
+                {
+                    "uname":"女装",
+                    "xiangxi":[
+                        "韩版","秋新品", "淘品牌","90后潮流志", "连衣裙", "套装", "针织衫","卫衣", "薄呢外套", "裤子", "衬衫", "风衣", "阔腿裤" ,"半身裙", "T恤", "雪纺/蕾丝衫", "高腰裤", "牛仔裤", "短外套" ,"小西装", "妈妈装", "毛衣", "大码", "好货", "红人私服", "甜美风", "文艺风", "原创单品" ,"街头风" ,"通勤风", "大厂直供"
+                    ]
+
+                },
+                {
+                    "uname":"男装",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+     
+
+
+
+
+        {
+            "name":"鞋靴/女装/包包",
+            "shangpin":[
+                {
+                    "uname":"女鞋好店",
+                    "xiangxi":[
+                        "女鞋好店", "热卖榜单", "爆款单品"," 预售会场"," 预售好店 ","预售爆品"," 预售潮靴"," 女鞋"," 红人同款 ","夏上新"," 帆布鞋 ","小皮鞋 ","一脚蹬"," 松糕厚底"," 平底鞋"," 低跟"," 中跟"," 高跟 ","穆勒鞋"," 复古方头"," 尖头"," 小粗跟"," 细跟"," 男鞋"," 休闲鞋"," 板鞋"," 帆布鞋"," 运动风"," 豆豆鞋"," 乐福鞋 ","雕花布洛克 ","船鞋 ","增高鞋 ","正装商务 ","户外休闲 ","爸爸鞋 ","德比鞋" ,"孟克鞋", "布鞋"
+                    ]
+
+                },
+                {
+                    "uname":"箱包",
+                    "xiangxi":[
+                        "女包"," 骚包 ","双肩包"," 男包 ","旅行箱"," 钱包"," 真皮包 ","大牌"," 宽肩带 ","小方包 ","水桶包"," 迷你包"," 链条包"," 贝壳包 ","波士顿包"," 手拿包"," 单肩包"," 手提包"," 斜挎包"," 零钱包 ","妈妈包"," 欧美潮搭 ","日韩流行"," 青春学院 ","男士商务"," 雅痞休闲 ","拉杆箱 ","腰包"," 胸包"," 手工皮具", "红人优品"
+                    ]
+
+                },
+                {
+                    "uname":"帽子",
+                    "xiangxi":[
+                        "帽子"," 贝雷帽"," 渔夫帽"," 鸭舌帽 ","礼帽 ","草帽 ","爵士帽"," 盆帽"," 八角帽"," 丝巾"," 披肩"," 真丝围巾 ","棉麻围巾"," 方巾"," 手套 ","真皮手套"," 触屏手套 ","半指手套 ","全指手套 ","真皮腰带"," 腰带"," 手工皮带"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+        
+
+        {
+            "name":"童装玩具/孕产/奶粉",
+            "shangpin":[
+                {
+                    "uname":"童装玩具",
+                    "xiangxi":[
+                        "连衣裙 ","保暖连体"," 裤子 ","羽绒"," 居家睡衣"," 针织 ","帽子"," 亲子装"," 童鞋"," 学步鞋"," 女童运动鞋"," 男童运动鞋"," 毛毛虫童鞋 ","雪地靴"," 马丁靴 ","长靴"," 玩具 ","积木"," 毛绒玩具 ","早教"," 儿童自行车"," 电动童车"," 遥控模型"," 户外玩具"," 亲子玩具"," 学习用品"," 描红本"
+                    ]
+
+                },
+                {
+                    "uname":"孕产",
+                    "xiangxi":[
+                        "美妈大衣 ","孕妇裤 ","月子服"," 哺乳文胸 ","吸奶器 ","防辐射"," 孕妇内裤 ","连衣裙"," 待产包 ","孕妇牛仔裤"," 孕妇营养品"," 防溢乳垫 ","美德乐"," 十月妈咪"," 三洋"," Bravado ","新生儿 ","婴儿床 ","婴儿推车"," 睡袋","抱被"," 隔尿垫"," 学步车"," 安抚奶嘴 ","体温计 ","纸尿裤"," 花王"," 洗衣液"," 湿巾"
+                    ]
+
+                },
+                {
+                    "uname":"奶粉",
+                    "xiangxi":[
+                        "爱他美 ","羊奶粉"," 特殊配方奶粉 ","喜宝 ","惠氏"," 启赋 ","牛栏 ","美素佳儿"," 贝因美 ","雅培"," 美赞臣","可瑞康"," a2"," 嘉宝"," 美林 ","米粉"," 泡芙"," 溶溶豆"," 肉肠 ","果肉条 ","奶片 ","益生菌 ","维生素 ","钙铁锌"," DHA ","宝宝食用油 ","核桃油"," 葡萄糖 ","宝宝调料"," 奶瓶"," 餐具"," 餐椅"," 暖奶器"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+       
+        
+
+        {
+            "name":"家电/数码/手机",
+            "shangpin":[
+                {
+                    "uname":"家电",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," 淘火炬品牌"," 生活电器"," 厨房电器"," 个人护理 ","空气净化器"," 扫地机器人"," 吸尘器 ","取暖器"," 烤箱"," 豆浆机"," 榨汁料理"," 电饭煲"," 吹风机"," 足浴盆 ","剃须刀 ","卷发器 ","按摩器材 ","冬季火锅 ","蓝牙耳机 ","电暖桌"," 蓝牙音箱"," 电热毯 ","加湿器 ","暖风机"
+                    ]
+
+                },
+                {
+                    "uname":"数码",
+                    "xiangxi":[
+                        "淘宝速达"," 淘宝火炬品牌"," 实体商场服务 ","2小时送货服务 ","surface平板电脑"," 苹果/Apple"," iPad Pro"," 电脑主机"," 数码相机"," 电玩动漫 ","单反相机"," 华为 ","MateBook ","IPAD"," mini4 ","游戏主机"," 鼠标键盘"," 无人机 ","二手数码"," 二手手机"," 二手笔记本 ","二手平板电脑"
+                    ]
+
+                },
+                {
+                    "uname":"手机",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," iPhoneX"," iPhone8 ","iphone ","7 plus"," iphone 6s"," iphone 7"," 华为mate9"," 苹果6S"," 苹果6 plus"," 荣耀 ","三星 ","三星s7"," 小米"," 红米note3 ","华为mate8 ","魅族 ","oppo"," vivo"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        }, 
+
+        {
+            "name":"美妆/洗护/保健品",
+            "shangpin":[
+                {
+                    "uname":"美妆",
+                    "xiangxi":[
+                        "美妆尖货"," 面膜 ","洁面 ","防晒"," 爽肤水"," 眼霜"," 乳液 ","面霜"," 精华"," 卸妆 ","男士护肤"," 眼线"," 粉底液 ","BB霜 ","隔离 ","睫毛膏 ","彩妆盘 ","唇膏","腮红 ","香水"," 精油 ","身体护理"," 丰胸 ","纤体 ","脱毛"," 海外直邮"
+        
+                    ]
+
+                },
+                {
+                    "uname":"洗护",
+                    "xiangxi":[
+                        "洗发水"," 护发素"," 发膜"," 头发造型"," 染发膏"," 烫发水"," 假发 ","沐浴露 ","私处护理 ","身体乳液 ","牙膏 ","牙刷 ","漱口水"," 足浴 ","足贴 ","洗手液 ","卫生巾 ","成人纸尿裤"," 抽纸 ","卷纸 ","洗衣液"," 清洁剂 ","厨房清洁"," 家私/皮具护理"," 香薰"," 营养保健"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "B族维生素"," 葡萄籽"," 辅酶Q10 ","消化酶"," 软骨素"," 维生素C"," 钙 ","大豆异黄酮 ","益生菌 ","鱼油 ","氨基葡萄糖"," 葡萄籽 ","生物素 ","玛咖（玛卡）"," 酵素"," 螺旋藻"," 胶原蛋白 ","月见草油"," DHA ","蔓越莓"," 左旋肉碱"," 褪黑素"," 锯棕榈"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+        {
+            "name":"饰品/珠宝/保健品",
+            "shangpin":[
+                {
+                    "uname":"女装",
+                    "xiangxi":[
+                        "韩版","秋新品", "淘品牌","90后潮流志", "连衣裙", "套装", "针织衫","卫衣", "薄呢外套", "裤子", "衬衫", "风衣", "阔腿裤" ,"半身裙", "T恤", "雪纺/蕾丝衫", "高腰裤", "牛仔裤", "短外套" ,"小西装", "妈妈装", "毛衣", "大码", "好货", "红人私服", "甜美风", "文艺风", "原创单品" ,"街头风" ,"通勤风", "大厂直供"
+                    ]
+
+                },
+                {
+                    "uname":"男装",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+     
+
+
+
+
+        {
+            "name":"运动/户外/乐器",
+            "shangpin":[
+                {
+                    "uname":"女鞋好店",
+                    "xiangxi":[
+                        "女鞋好店", "热卖榜单", "爆款单品"," 预售会场"," 预售好店 ","预售爆品"," 预售潮靴"," 女鞋"," 红人同款 ","夏上新"," 帆布鞋 ","小皮鞋 ","一脚蹬"," 松糕厚底"," 平底鞋"," 低跟"," 中跟"," 高跟 ","穆勒鞋"," 复古方头"," 尖头"," 小粗跟"," 细跟"," 男鞋"," 休闲鞋"," 板鞋"," 帆布鞋"," 运动风"," 豆豆鞋"," 乐福鞋 ","雕花布洛克 ","船鞋 ","增高鞋 ","正装商务 ","户外休闲 ","爸爸鞋 ","德比鞋" ,"孟克鞋", "布鞋"
+                    ]
+
+                },
+                {
+                    "uname":"箱包",
+                    "xiangxi":[
+                        "女包"," 骚包 ","双肩包"," 男包 ","旅行箱"," 钱包"," 真皮包 ","大牌"," 宽肩带 ","小方包 ","水桶包"," 迷你包"," 链条包"," 贝壳包 ","波士顿包"," 手拿包"," 单肩包"," 手提包"," 斜挎包"," 零钱包 ","妈妈包"," 欧美潮搭 ","日韩流行"," 青春学院 ","男士商务"," 雅痞休闲 ","拉杆箱 ","腰包"," 胸包"," 手工皮具", "红人优品"
+                    ]
+
+                },
+                {
+                    "uname":"帽子",
+                    "xiangxi":[
+                        "帽子"," 贝雷帽"," 渔夫帽"," 鸭舌帽 ","礼帽 ","草帽 ","爵士帽"," 盆帽"," 八角帽"," 丝巾"," 披肩"," 真丝围巾 ","棉麻围巾"," 方巾"," 手套 ","真皮手套"," 触屏手套 ","半指手套 ","全指手套 ","真皮腰带"," 腰带"," 手工皮带"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+        
+
+        {
+            "name":"游戏/动漫/影视",
+            "shangpin":[
+                {
+                    "uname":"童装玩具",
+                    "xiangxi":[
+                        "连衣裙 ","保暖连体"," 裤子 ","羽绒"," 居家睡衣"," 针织 ","帽子"," 亲子装"," 童鞋"," 学步鞋"," 女童运动鞋"," 男童运动鞋"," 毛毛虫童鞋 ","雪地靴"," 马丁靴 ","长靴"," 玩具 ","积木"," 毛绒玩具 ","早教"," 儿童自行车"," 电动童车"," 遥控模型"," 户外玩具"," 亲子玩具"," 学习用品"," 描红本"
+                    ]
+
+                },
+                {
+                    "uname":"孕产",
+                    "xiangxi":[
+                        "美妈大衣 ","孕妇裤 ","月子服"," 哺乳文胸 ","吸奶器 ","防辐射"," 孕妇内裤 ","连衣裙"," 待产包 ","孕妇牛仔裤"," 孕妇营养品"," 防溢乳垫 ","美德乐"," 十月妈咪"," 三洋"," Bravado ","新生儿 ","婴儿床 ","婴儿推车"," 睡袋","抱被"," 隔尿垫"," 学步车"," 安抚奶嘴 ","体温计 ","纸尿裤"," 花王"," 洗衣液"," 湿巾"
+                    ]
+
+                },
+                {
+                    "uname":"奶粉",
+                    "xiangxi":[
+                        "爱他美 ","羊奶粉"," 特殊配方奶粉 ","喜宝 ","惠氏"," 启赋 ","牛栏 ","美素佳儿"," 贝因美 ","雅培"," 美赞臣","可瑞康"," a2"," 嘉宝"," 美林 ","米粉"," 泡芙"," 溶溶豆"," 肉肠 ","果肉条 ","奶片 ","益生菌 ","维生素 ","钙铁锌"," DHA ","宝宝食用油 ","核桃油"," 葡萄糖 ","宝宝调料"," 奶瓶"," 餐具"," 餐椅"," 暖奶器"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+       
+        
+
+        {
+            "name":"美食/生鲜/零食",
+            "shangpin":[
+                {
+                    "uname":"家电",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," 淘火炬品牌"," 生活电器"," 厨房电器"," 个人护理 ","空气净化器"," 扫地机器人"," 吸尘器 ","取暖器"," 烤箱"," 豆浆机"," 榨汁料理"," 电饭煲"," 吹风机"," 足浴盆 ","剃须刀 ","卷发器 ","按摩器材 ","冬季火锅 ","蓝牙耳机 ","电暖桌"," 蓝牙音箱"," 电热毯 ","加湿器 ","暖风机"
+                    ]
+
+                },
+                {
+                    "uname":"数码",
+                    "xiangxi":[
+                        "淘宝速达"," 淘宝火炬品牌"," 实体商场服务 ","2小时送货服务 ","surface平板电脑"," 苹果/Apple"," iPad Pro"," 电脑主机"," 数码相机"," 电玩动漫 ","单反相机"," 华为 ","MateBook ","IPAD"," mini4 ","游戏主机"," 鼠标键盘"," 无人机 ","二手数码"," 二手手机"," 二手笔记本 ","二手平板电脑"
+                    ]
+
+                },
+                {
+                    "uname":"手机",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," iPhoneX"," iPhone8 ","iphone ","7 plus"," iphone 6s"," iphone 7"," 华为mate9"," 苹果6S"," 苹果6 plus"," 荣耀 ","三星 ","三星s7"," 小米"," 红米note3 ","华为mate8 ","魅族 ","oppo"," vivo"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        }, 
+
+        {
+            "name":"鲜花/宠物/农资",
+            "shangpin":[
+                {
+                    "uname":"美妆",
+                    "xiangxi":[
+                        "美妆尖货"," 面膜 ","洁面 ","防晒"," 爽肤水"," 眼霜"," 乳液 ","面霜"," 精华"," 卸妆 ","男士护肤"," 眼线"," 粉底液 ","BB霜 ","隔离 ","睫毛膏 ","彩妆盘 ","唇膏","腮红 ","香水"," 精油 ","身体护理"," 丰胸 ","纤体 ","脱毛"," 海外直邮"
+        
+                    ]
+
+                },
+                {
+                    "uname":"洗护",
+                    "xiangxi":[
+                        "洗发水"," 护发素"," 发膜"," 头发造型"," 染发膏"," 烫发水"," 假发 ","沐浴露 ","私处护理 ","身体乳液 ","牙膏 ","牙刷 ","漱口水"," 足浴 ","足贴 ","洗手液 ","卫生巾 ","成人纸尿裤"," 抽纸 ","卷纸 ","洗衣液"," 清洁剂 ","厨房清洁"," 家私/皮具护理"," 香薰"," 营养保健"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "B族维生素"," 葡萄籽"," 辅酶Q10 ","消化酶"," 软骨素"," 维生素C"," 钙 ","大豆异黄酮 ","益生菌 ","鱼油 ","氨基葡萄糖"," 葡萄籽 ","生物素 ","玛咖（玛卡）"," 酵素"," 螺旋藻"," 胶原蛋白 ","月见草油"," DHA ","蔓越莓"," 左旋肉碱"," 褪黑素"," 锯棕榈"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+        {
+            "name":"工具/维修/建材",
+            "shangpin":[
+                {
+                    "uname":"女装",
+                    "xiangxi":[
+                        "韩版","秋新品", "淘品牌","90后潮流志", "连衣裙", "套装", "针织衫","卫衣", "薄呢外套", "裤子", "衬衫", "风衣", "阔腿裤" ,"半身裙", "T恤", "雪纺/蕾丝衫", "高腰裤", "牛仔裤", "短外套" ,"小西装", "妈妈装", "毛衣", "大码", "好货", "红人私服", "甜美风", "文艺风", "原创单品" ,"街头风" ,"通勤风", "大厂直供"
+                    ]
+
+                },
+                {
+                    "uname":"男装",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+     
+
+
+
+
+        {
+            "name":"家具/装修/建材",
+            "shangpin":[
+                {
+                    "uname":"女鞋好店",
+                    "xiangxi":[
+                        "女鞋好店", "热卖榜单", "爆款单品"," 预售会场"," 预售好店 ","预售爆品"," 预售潮靴"," 女鞋"," 红人同款 ","夏上新"," 帆布鞋 ","小皮鞋 ","一脚蹬"," 松糕厚底"," 平底鞋"," 低跟"," 中跟"," 高跟 ","穆勒鞋"," 复古方头"," 尖头"," 小粗跟"," 细跟"," 男鞋"," 休闲鞋"," 板鞋"," 帆布鞋"," 运动风"," 豆豆鞋"," 乐福鞋 ","雕花布洛克 ","船鞋 ","增高鞋 ","正装商务 ","户外休闲 ","爸爸鞋 ","德比鞋" ,"孟克鞋", "布鞋"
+                    ]
+
+                },
+                {
+                    "uname":"箱包",
+                    "xiangxi":[
+                        "女包"," 骚包 ","双肩包"," 男包 ","旅行箱"," 钱包"," 真皮包 ","大牌"," 宽肩带 ","小方包 ","水桶包"," 迷你包"," 链条包"," 贝壳包 ","波士顿包"," 手拿包"," 单肩包"," 手提包"," 斜挎包"," 零钱包 ","妈妈包"," 欧美潮搭 ","日韩流行"," 青春学院 ","男士商务"," 雅痞休闲 ","拉杆箱 ","腰包"," 胸包"," 手工皮具", "红人优品"
+                    ]
+
+                },
+                {
+                    "uname":"帽子",
+                    "xiangxi":[
+                        "帽子"," 贝雷帽"," 渔夫帽"," 鸭舌帽 ","礼帽 ","草帽 ","爵士帽"," 盆帽"," 八角帽"," 丝巾"," 披肩"," 真丝围巾 ","棉麻围巾"," 方巾"," 手套 ","真皮手套"," 触屏手套 ","半指手套 ","全指手套 ","真皮腰带"," 腰带"," 手工皮带"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+        
+
+        {
+            "name":"汽车/二手车/用品",
+            "shangpin":[
+                {
+                    "uname":"童装玩具",
+                    "xiangxi":[
+                        "连衣裙 ","保暖连体"," 裤子 ","羽绒"," 居家睡衣"," 针织 ","帽子"," 亲子装"," 童鞋"," 学步鞋"," 女童运动鞋"," 男童运动鞋"," 毛毛虫童鞋 ","雪地靴"," 马丁靴 ","长靴"," 玩具 ","积木"," 毛绒玩具 ","早教"," 儿童自行车"," 电动童车"," 遥控模型"," 户外玩具"," 亲子玩具"," 学习用品"," 描红本"
+                    ]
+
+                },
+                {
+                    "uname":"孕产",
+                    "xiangxi":[
+                        "美妈大衣 ","孕妇裤 ","月子服"," 哺乳文胸 ","吸奶器 ","防辐射"," 孕妇内裤 ","连衣裙"," 待产包 ","孕妇牛仔裤"," 孕妇营养品"," 防溢乳垫 ","美德乐"," 十月妈咪"," 三洋"," Bravado ","新生儿 ","婴儿床 ","婴儿推车"," 睡袋","抱被"," 隔尿垫"," 学步车"," 安抚奶嘴 ","体温计 ","纸尿裤"," 花王"," 洗衣液"," 湿巾"
+                    ]
+
+                },
+                {
+                    "uname":"奶粉",
+                    "xiangxi":[
+                        "爱他美 ","羊奶粉"," 特殊配方奶粉 ","喜宝 ","惠氏"," 启赋 ","牛栏 ","美素佳儿"," 贝因美 ","雅培"," 美赞臣","可瑞康"," a2"," 嘉宝"," 美林 ","米粉"," 泡芙"," 溶溶豆"," 肉肠 ","果肉条 ","奶片 ","益生菌 ","维生素 ","钙铁锌"," DHA ","宝宝食用油 ","核桃油"," 葡萄糖 ","宝宝调料"," 奶瓶"," 餐具"," 餐椅"," 暖奶器"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+
+
+
+       
+        
+
+        {
+            "name":"办公/DIY/五金电子",
+            "shangpin":[
+                {
+                    "uname":"家电",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," 淘火炬品牌"," 生活电器"," 厨房电器"," 个人护理 ","空气净化器"," 扫地机器人"," 吸尘器 ","取暖器"," 烤箱"," 豆浆机"," 榨汁料理"," 电饭煲"," 吹风机"," 足浴盆 ","剃须刀 ","卷发器 ","按摩器材 ","冬季火锅 ","蓝牙耳机 ","电暖桌"," 蓝牙音箱"," 电热毯 ","加湿器 ","暖风机"
+                    ]
+
+                },
+                {
+                    "uname":"数码",
+                    "xiangxi":[
+                        "淘宝速达"," 淘宝火炬品牌"," 实体商场服务 ","2小时送货服务 ","surface平板电脑"," 苹果/Apple"," iPad Pro"," 电脑主机"," 数码相机"," 电玩动漫 ","单反相机"," 华为 ","MateBook ","IPAD"," mini4 ","游戏主机"," 鼠标键盘"," 无人机 ","二手数码"," 二手手机"," 二手笔记本 ","二手平板电脑"
+                    ]
+
+                },
+                {
+                    "uname":"手机",
+                    "xiangxi":[
+                        "淘宝速达 ","实体商场服务"," iPhoneX"," iPhone8 ","iphone ","7 plus"," iphone 6s"," iphone 7"," 华为mate9"," 苹果6S"," 苹果6 plus"," 荣耀 ","三星 ","三星s7"," 小米"," 红米note3 ","华为mate8 ","魅族 ","oppo"," vivo"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+            
+        }, 
+
+        {
+            "name":"百货/餐厨/家庭保健",
+            "shangpin":[
+                {
+                    "uname":"美妆",
+                    "xiangxi":[
+                        "美妆尖货"," 面膜 ","洁面 ","防晒"," 爽肤水"," 眼霜"," 乳液 ","面霜"," 精华"," 卸妆 ","男士护肤"," 眼线"," 粉底液 ","BB霜 ","隔离 ","睫毛膏 ","彩妆盘 ","唇膏","腮红 ","香水"," 精油 ","身体护理"," 丰胸 ","纤体 ","脱毛"," 海外直邮"
+        
+                    ]
+
+                },
+                {
+                    "uname":"洗护",
+                    "xiangxi":[
+                        "洗发水"," 护发素"," 发膜"," 头发造型"," 染发膏"," 烫发水"," 假发 ","沐浴露 ","私处护理 ","身体乳液 ","牙膏 ","牙刷 ","漱口水"," 足浴 ","足贴 ","洗手液 ","卫生巾 ","成人纸尿裤"," 抽纸 ","卷纸 ","洗衣液"," 清洁剂 ","厨房清洁"," 家私/皮具护理"," 香薰"," 营养保健"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "B族维生素"," 葡萄籽"," 辅酶Q10 ","消化酶"," 软骨素"," 维生素C"," 钙 ","大豆异黄酮 ","益生菌 ","鱼油 ","氨基葡萄糖"," 葡萄籽 ","生物素 ","玛咖（玛卡）"," 酵素"," 螺旋藻"," 胶原蛋白 ","月见草油"," DHA ","蔓越莓"," 左旋肉碱"," 褪黑素"," 锯棕榈"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        },
+        {
+            "name":"女装/男装/内衣",
+            "shangpin":[
+                {
+                    "uname":"女装",
+                    "xiangxi":[
+                        "韩版","秋新品", "淘品牌","90后潮流志", "连衣裙", "套装", "针织衫","卫衣", "薄呢外套", "裤子", "衬衫", "风衣", "阔腿裤" ,"半身裙", "T恤", "雪纺/蕾丝衫", "高腰裤", "牛仔裤", "短外套" ,"小西装", "妈妈装", "毛衣", "大码", "好货", "红人私服", "甜美风", "文艺风", "原创单品" ,"街头风" ,"通勤风", "大厂直供"
+                    ]
+
+                },
+                {
+                    "uname":"男装",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                },
+                {
+                    "uname":"内衣",
+                    "xiangxi":[
+                        "先型榜", "新品", "穿搭指南", "设计款", "线下大牌", "品质优选", "T恤", "衬衫" ,"夹克", "卫衣", "皮衣", "休闲裤", "牛仔裤", "沙滩裤", "运动裤", "九分裤", "阔腿裤" ,"薄外套" ,"棒球服", "风衣", "针织衫", "运动外套","呢大衣" ,"西装" ,"Polo" ,"开衫", "马甲", "毛衣" ,"棉衣" ,"羽绒服" ,"情侣装" ,"大码" ,"中老年"
+                    ]
+
+                }
+                
+                
+            ],
+            "tu":[
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i1/391145450/TB1uI8PaACWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2278430273/TB2NaUTohHI8KJjy1zbXXaxdpXa_!!2278430273.jpg_110x110q90.jpg",
+                    "description":"欧美风2018秋季"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i6/TB1fUGZihSYBuNjSspjYXF73VXa_M2.SS2_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i4/2027521714/TB2DxJxlZjI8KJjSsppXXXbyVXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2027521714/TB2arUYejgy_uJjSZJnXXbuOXXa_!!2027521714.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                },
+                {
+                    "img_path":"https://img.alicdn.com/bao/uploaded/i2/2002262153/TB1st1tlcjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg_110x110q90.jpg",
+                    "description":"新增春夏装"
+                }
+
+            ]
+        }
+
+
+
+    ]
+}
+
+
